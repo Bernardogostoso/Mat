@@ -3,11 +3,11 @@
 
 :root {
 	--fundo: #1E1E1E;		
-	--verde: #6FFF57;
+	--roxo: #9932CC;
 	--branco: #FFFFFF;
-	--botao-on: #3A375E;
-	--botao-off: rgba(58, 55, 94, 0.5);
-	--texto-fundo: rgba(58, 55, 94, 0.3);	/*definindo variáveis*/
+	--botao-on: #BA55D3;
+	--botao-off: #8B008B;
+	--texto-fundo: #A020F0;	/*definindo variáveis*/
 	}
 
 body {
